@@ -1,11 +1,12 @@
 h1{
-    color: lightblue;
+    color: #A52A2A;
+    margin-left: 372px;
 }
 html{
     font-family: sans-serif;
 }
 body{ 
-    background-color: green;
+    background-color: black;
 }
 ul {
     list-style-type: none;
@@ -15,4 +16,14 @@ ul {
 .pomodoro-estimate{
     font-weight: bold;
     color: #A52A2A;
+}
+li a{
+    color: yellow;
+    font-size: 40px;
+}
+ul{
+    margin-left: 372px;
+}
+li {
+    padding: 10px;
 }
