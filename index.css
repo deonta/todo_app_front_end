@@ -1,0 +1,18 @@
+h1{
+    color: lightblue;
+}
+html{
+    font-family: sans-serif;
+}
+body{ 
+    background-color: green;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.pomodoro-estimate{
+    font-weight: bold;
+    color: #A52A2A;
+}
