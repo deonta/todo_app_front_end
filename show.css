@@ -1,0 +1,18 @@
+body {
+    background-color: yellow;
+}
+
+h1 {
+    text-align: center;
+}
+
+p {
+    margin-left: 400px;
+    font-size: 20px;
+}
+
+a {
+    color: black;
+    font-size: 15px;
+    margin-left: 400px;
+}

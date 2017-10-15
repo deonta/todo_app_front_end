@@ -1,16 +1,32 @@
 #add-new-todo-button{
     font-size: 20px;
     text-align: center;
-    color: #FFF;
+    color: black;
     outline: none;
     border-style: none;
     padding: 10px;
     border-radius: 3px;
     box-shadow: 2px 2px 1px #90A4AE;
     display: block; 
-    background-color: A52A2A
+}
+body{ 
+    background-color: #A52A2A;
     
 }
 input{
     display: block;
+    margin-bottom: 20px;
+    width: 200px;
+    font-size: 18px;
+    padding: 5px;
 }
+
+form {
+    margin-left: 300px;
+}
+
+a {
+    color: black;
+    font-size: 20px;
+}
+
